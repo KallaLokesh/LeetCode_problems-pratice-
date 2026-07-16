@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/KallaLokesh/Sample/tree/master/0069-sqrtx) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/KallaLokesh/Sample/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/KallaLokesh/Sample/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
