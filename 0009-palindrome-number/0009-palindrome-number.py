@@ -4,13 +4,15 @@ class Solution(object):
         :type x: int
         :rtype: bool
         """
-        if x<0:return False
-        sum1=0
-        n=x
+        a=0
+        num=x
+
         while x>0:
-            temp=x%10
-            sum1=sum1*10+temp
-            x//=10
-        if n==sum1:return True
-        else:return False
+            digit=x%10
+            a=a*10+digit
+            x=x//10
+        if num==a:
+            return True
+        else:
+            return False
         
