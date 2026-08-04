@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/KallaLokesh/Sample/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/KallaLokesh/Sample/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/KallaLokesh/Sample/tree/master/0136-single-number) |
+| [0643-maximum-average-subarray-i](https://github.com/KallaLokesh/Sample/tree/master/0643-maximum-average-subarray-i) |
 | [1672-richest-customer-wealth](https://github.com/KallaLokesh/Sample/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/KallaLokesh/Sample/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/KallaLokesh/Sample/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/KallaLokesh/Sample/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
