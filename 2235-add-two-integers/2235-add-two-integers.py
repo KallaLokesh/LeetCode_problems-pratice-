@@ -5,5 +5,7 @@ class Solution(object):
         :type num2: int
         :rtype: int
         """
-        num= num1+num2
-        return num
+        total=0
+        for i in [num1,num2]:
+            total=total+i
+        return total
