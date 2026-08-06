@@ -5,14 +5,10 @@ class Solution(object):
         :rtype: List[int]
         """
         ans=[]
-        i=0
-        while i<len(nums):
+        for i in nums:
             count=0
-            j=0
-            while j<len(nums):
-                if nums[j]<nums[i]:
+            for j in nums:
+                if j<i:
                     count=count+1
-                j=j+1
             ans.append(count)
-            i=i+1
         return ans
