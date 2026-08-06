@@ -4,14 +4,12 @@ class Solution(object):
         :type x: int
         :rtype: bool
         """
-        a=0
-        num=x
-
-        while x>0:
-            digit=x%10
-            a=a*10+digit
-            x=x//10
-        if num==a:
+        reverse=""
+        num=str(x)
+        for i in str(x):
+            reverse=i+reverse
+            
+        if num==reverse:
             return True
         else:
             return False
