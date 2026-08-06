@@ -6,9 +6,9 @@ class Solution(object):
         :rtype: List[int]
         """
         ans=[]
-        i=0
-        while i<n:
+        
+        for i in range(n):
             ans.append(nums[i])
             ans.append(nums[i+n])
-            i=i+1
+            
         return ans
